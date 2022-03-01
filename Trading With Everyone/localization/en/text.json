@@ -1,0 +1,29 @@
+{
+	"": {
+
+		"VILLAGE_SMITH_DESC": "A guild of traders representing local blacksmiths. A small bribe will have them send a trader your way.",
+		"VILLAGE_MINE_DESC": "The mountian villages have joined together to sell their products.",
+		"VILLAGE_FOREST_DESC": "A small town on the edge of a large forest.",
+		"VILLAGE_ISLAND_DESC": "A small island just offshore with access to rich fishing grounds.",
+		"VILLAGE_MONK_DESC": "A secluded monastery of devout worshipers.",
+		"VILLAGE_KNIGHT_DESC": "An Order of Knights with a taste for the finer things.",
+		"VILLAGE_MINT_DESC": "The Royal Mint always needs more gold.",
+    "VILLAGE_MINT_SUGAR_DESC": "The Royal Mint always needs more gold. The Crown also imports sugar from the Mediteranean region.",
+
+		"VILLAGE_A_DESC": "A local Lord that would like to trade.",
+		"VILLAGE_B_DESC": "A highly religious Lord. Be careful not to utter any blasphemy!",
+		"VILLAGE_C_DESC": "This Lord is friends with your Uncle.",
+		"VILLAGE_D_DESC": "The Manor is surrounded by vast pastures.",
+		"VILLAGE_E_DESC": "Known country-wide for their excellent bakeries.",
+		"VILLAGE_F_DESC": "A fertile region with vast farmland.",
+		"VILLAGE_G_DESC": "A devout Lord with many orchards.",
+		"VILLAGE_H_DESC": "This northern region receives regular frost coverage.",
+		"VILLAGE_I_DESC": "Un-used",
+		"VILLAGE_J_DESC": "Un-used",
+
+       
+
+		"": ""
+
+	}
+}

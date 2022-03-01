@@ -1,0 +1,20 @@
+{
+"Name": "Trading With Everyone",
+"Author": "BlackRhino",
+"Description": "Adds trading partners from all over the country",
+"Version": "1.0.4",
+  
+"Dependencies": [
+	{
+		"Id": "76daffe0-725f-4dac-b1b5-de331dfca67a",
+		"Name": "Common Resources"
+	}
+],
+    
+"AdditionalLanguageList": [
+	{
+		"Name": "German",
+		"Code": "de"
+	}
+]
+}

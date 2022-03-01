@@ -1,0 +1,12 @@
+{
+"Name": "From Wealthy Beginnings",
+"Author": "BlackRhino",
+"Description": "Start the game with 5000 gold coins",
+"Version": "1.0.0",
+  
+"Dependencies": [
+],
+    
+"AdditionalLanguageList": [
+]
+}
